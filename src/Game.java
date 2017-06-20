@@ -4,7 +4,7 @@ public class Game {
 
 	public static void main(String[] args) {
 		Scanner scn= new Scanner(System.in);
-		/*System.out.println("WELCOME TO MITCHELL'S TINY ADVENTURE!");
+		System.out.println("WELCOME TO MITCHELL'S TINY ADVENTURE!");
 		String kitchen = "kitchen";
 		String upstairs = "upstairs";
 		String ref ="refrigerator";
@@ -92,7 +92,7 @@ public class Game {
 				}
 			}
 			
-		}*/
+		}
 		
 		/*Switch*/
 		int day;
